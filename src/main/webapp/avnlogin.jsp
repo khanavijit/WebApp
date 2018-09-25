@@ -210,7 +210,7 @@ The Mars Help Desk Team, can assist with issues and concerns regarding:
       <button>Login</button>
     </form>
   </div>
-   <div class="cta"><a href="">Forgot your password?</a></div>
+   <div class="cta"><a href="">Forgot your password kya?</a></div>
    </div>
    <p class="text-center">
    <span id="fullyear">2017</span>
